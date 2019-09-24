@@ -1,0 +1,30 @@
+h1{
+    font-size: 40px;
+    /* palabras clave 17 */
+    background: green;
+    color: brown;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    /* colores hexadecimal*/
+    background: green;
+    color: brown;
+    text-align: center;
+}
+
+h3{
+    font-size: 40px;
+    /* rgb */
+    background: green;
+    color: brown;
+    text-align: center;
+}
+h4{
+    font-size: 40px;
+    /* rgb a */
+    background: green;
+    color: brown;
+    text-align: center;
+}

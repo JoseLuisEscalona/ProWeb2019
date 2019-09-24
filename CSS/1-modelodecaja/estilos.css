@@ -1,0 +1,22 @@
+body{
+    background: #74b9ff;
+
+}
+h1{
+    background: #34495e;
+    text-align: center;
+    color     : #c0392b;
+    border:solid 1px #c0392b;
+    font-family: Verdana;
+    padding: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
+}
+p{
+    color: #2d3436;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: verdana;
+    text-align: justify;
+}

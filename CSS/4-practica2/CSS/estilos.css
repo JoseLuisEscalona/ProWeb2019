@@ -1,0 +1,25 @@
+*{
+    font-family: verdana;
+}
+body{
+    background: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background: blue;
+    padding: 18px;
+}
+
+p.uno{
+    color: white;
+    font-size: 20px;
+}
+p.dos{
+    color: green;
+}
+a{
+    font-size: 2em;
+    background: orange;
+}

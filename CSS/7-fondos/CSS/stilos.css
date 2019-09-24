@@ -1,0 +1,12 @@
+body{
+    /* background: #16a085; */
+    /* background: url('../Imagenes/fondo.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-position: center 50px; */
+    /* background-repeat: repeat-x; */
+    background: rgba(28, 216, 210);  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgba(147, 237, 199, .5), rgba(28, 216, 210, .5)), url('../Imagenes/ripples.png');  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgba(147, 237, 199, .5), rgba(28, 216, 210, .5)), url('../Imagenes/ripples.png'); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
